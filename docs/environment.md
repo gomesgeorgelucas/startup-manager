@@ -78,3 +78,10 @@
   "version": 4
 }
 ```
+
+## Extensions
+
+- C/C++
+- Code Runner
+- C/C++ Advanced Lint
+  - Linters: flex, cppcheck, flaw-analyzer, lizard-analyzer
