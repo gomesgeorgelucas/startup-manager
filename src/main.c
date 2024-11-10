@@ -3,5 +3,6 @@
 int main(void)
 {
   printf("Program started...\n");
-  printf("wait...");
+
+  return 0;
 }
